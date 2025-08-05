@@ -1,4 +1,4 @@
-# 🪨 Pedra, Papel e Tesoura - Jogo em Java 🎮
+# 🗿, 📜, ✂️ Pedra, Papel e Tesoura - Jogo em Java 🎮
 
 Este projeto é um jogo de **Pedra, Papel e Tesoura** desenvolvido em Java com o objetivo de **praticar conceitos fundamentais da linguagem**, como:
 
